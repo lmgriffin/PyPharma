@@ -1,0 +1,26 @@
+,Mouse ID,Timepoint,Tumor Volume (mm3),Metastatic Sites,Drug Regimen,Sex,Age_months,Weight (g)
+0,a275,45,62.99935619,3,Ceftamin,Female,20,28
+1,b447,0,45.0,0,Ceftamin,Male,2,30
+2,b487,25,56.05774909,1,Ceftamin,Female,6,28
+3,b759,30,55.74282869,1,Ceftamin,Female,12,25
+4,f436,15,48.72207785,2,Ceftamin,Female,3,25
+5,h531,5,47.7846818,0,Ceftamin,Male,5,27
+6,j296,45,61.84902336,3,Ceftamin,Female,24,30
+7,k210,45,68.92318457,3,Ceftamin,Male,15,28
+8,l471,45,67.74866174,1,Ceftamin,Female,7,28
+9,l490,30,57.91838132,3,Ceftamin,Male,24,26
+10,l558,10,46.78453491,0,Ceftamin,Female,13,30
+11,l661,45,59.85195552,3,Ceftamin,Male,18,26
+12,l733,45,64.29983003,1,Ceftamin,Female,4,30
+13,o287,45,59.74190064,4,Ceftamin,Male,2,28
+14,p438,45,61.43389223,1,Ceftamin,Female,11,26
+15,q483,40,64.19234114,1,Ceftamin,Male,6,26
+16,t573,0,45.0,0,Ceftamin,Female,15,27
+17,u149,25,52.92534846,0,Ceftamin,Male,24,29
+18,u153,0,45.0,0,Ceftamin,Female,11,25
+19,w151,45,67.52748237,3,Ceftamin,Male,24,25
+20,x226,0,45.0,0,Ceftamin,Male,23,28
+21,x581,45,64.63494887,3,Ceftamin,Female,19,28
+22,x822,45,61.38666032,3,Ceftamin,Male,3,29
+23,y769,45,68.59474498,4,Ceftamin,Female,6,27
+24,y865,45,64.72983655,3,Ceftamin,Male,23,26
